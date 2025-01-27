@@ -1,10 +1,10 @@
-I am currently a 3rd year software engineering student at SJSJ. Skilled at working within large existing systems to deliver a project and can leverage real world experience with REST APIs, databases, Python, Java, C, and C++.  
+I am currently pursuing a Masters degree in Software Engineering. My passion for coding extends beyond academics—I often find myself immersed in projects, honing my skills in Java, Python, Dart, HMIL, and CSS during my leisure hours. These languages not only enable me to create innovative programs but also empower me to tackle intricate math and physics challenges.
 
-Areas of expertise: 
-data structure, objected oriented programming, data bases, algorithms, mobile programming, system programming, front end development.
+Juggling a full-time weekend job alongside occasional weekday commitments, I am dedicated to financially supporting my education. However, this hasn't deterred me from pursuing my interests. During my free time, I channel my enthusiasm into various activities such as working on my car, enhancing my coding prowess, and assembling computers.
 
-Industry Experience:
- data collection, informational technology, implementing different devices: PICO, Arduino, Raspberry PIE
+My strong suit lies in ideation and problem-solving. I thrive on generating fresh concepts and applying my analytical mindset to surmount challenges. This has been evident in my academic and personal projects alike.
+
+Thank you for considering my profile. I am excited about the prospect of leveraging my skills and experiences to contribute effectively and positively.
 
 Feel free to reach out via LinkedIn or directly!
 --
