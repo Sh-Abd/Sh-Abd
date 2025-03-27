@@ -1,14 +1,15 @@
-### I'm Shadi Abd El Majid 
+# I'm Shadi Abd El Majid 
 ![header_](https://github.com/user-attachments/assets/0126ecd5-2006-47a6-a680-c76868f1085e)
 
 
 🎓 Graduate Student @ San Jose State University | Master's in Software Engineering (GPA: 3.8/4.0)
 
 💡 Passionate about building secure, scalable systems and solving real-world problems through software.
+
 ---
 ## Technical Skills:
 
-# Languages: 
+#### Languages: 
 Python, Java, Dart, C++, Swift, JavaScript, TypeScript
 
 ![2](https://github.com/user-attachments/assets/a7461518-4c7a-4b6c-8813-bdde68338cd4)![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/2c4e2f31-4b21-46cb-bb03-faf117161e92)
@@ -18,7 +19,7 @@ Python, Java, Dart, C++, Swift, JavaScript, TypeScript
 ![4](https://github.com/user-attachments/assets/e4a03f06-a7bd-47fc-af48-b4fbaaf54101)
 ![3](https://github.com/user-attachments/assets/44be0745-7e80-49c1-962e-9fe84047fb9c)
  ![1](https://github.com/user-attachments/assets/a02bf5ea-80cc-4e2f-998e-343f1d92feb9)
-
+ 
 --
 # Frameworks & Tools: 
 Spring Boot, React, Next.js, Docker, Node.js, OpenCV, Dlib, Cypress, MySQL, NoSQL
@@ -33,6 +34,7 @@ Spring Boot, React, Next.js, Docker, Node.js, OpenCV, Dlib, Cypress, MySQL, NoSQ
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e646373732d2532333338423241432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/ef34633a-33d4-4325-ad60-21643254e0b6)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f666c61736b2d2532333030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d666c61736b266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/592e2d1e-dba6-40d2-a977-be7a6ce57536)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333835313146412e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/a9694cac-339a-4875-92e7-ad909a36694b)
+
 --
   • DevOps & Cloud: AWS, OpenVPN, Nginx, REST APIs, Git, Jira
 ML
