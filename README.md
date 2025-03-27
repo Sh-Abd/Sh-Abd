@@ -1,8 +1,7 @@
 # I'm Shadi Abd El Majid
 
-<p align="center">
-  <img src="https://i.imgur.com/Np2tIQn.png" alt="Header Banner" />
-</p>
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
 
 
 
