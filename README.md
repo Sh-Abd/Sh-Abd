@@ -5,7 +5,9 @@
 🎓 Graduate Student @ San Jose State University | Master's in Software Engineering (GPA: 3.8/4.0)
 
 💡 Passionate about building secure, scalable systems and solving real-world problems through software.
+
 ---
+
 ## Technical Skills:
 # Languages: 
 Python, Java, Dart, C++, Swift, JavaScript, TypeScript
