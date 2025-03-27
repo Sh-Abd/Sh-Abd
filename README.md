@@ -6,7 +6,7 @@
 
 💡 Passionate about building secure, scalable systems and solving real-world problems through software.
 
----
+--
 ## Technical Skills:
 
 #### Languages: 
@@ -21,7 +21,7 @@ Python, Java, Dart, C++, Swift, JavaScript, TypeScript
  ![1](https://github.com/user-attachments/assets/a02bf5ea-80cc-4e2f-998e-343f1d92feb9)
  
 --
-# Frameworks & Tools: 
+### Frameworks & Tools: 
 Spring Boot, React, Next.js, Docker, Node.js, OpenCV, Dlib, Cypress, MySQL, NoSQL
 
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/1d6256d0-9c38-4a1e-845b-1cd726896845)![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4170616368652532304b61666b612d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6170616368656b61666b61](https://github.com/user-attachments/assets/22e01b49-d8b9-4a1f-9650-dc82b1b3bbc0)
@@ -36,6 +36,7 @@ Spring Boot, React, Next.js, Docker, Node.js, OpenCV, Dlib, Cypress, MySQL, NoSQ
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333835313146412e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/a9694cac-339a-4875-92e7-ad909a36694b)
 
 --
+
   • DevOps & Cloud: AWS, OpenVPN, Nginx, REST APIs, Git, Jira
 ML
   • Keras, Matplotlib, NumPy, Pandas, Plotly, PyTorch, Scikit-learn, TensorFlow
