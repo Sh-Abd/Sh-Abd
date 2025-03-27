@@ -1,18 +1,15 @@
 # I'm Shadi Abd El Majid
-
-<!-- Header image (optional) -->
-<!-- Replace this with a working hosted image if you want -->
-<!-- ![header](https://github.com/user-attachments/assets/your-image.svg) -->
+<p align="center">
+  <img src="header_.png" alt="Header Banner" />
+</p>
 
 🎓 Graduate Student @ San Jose State University | Master's in Software Engineering (GPA: 3.8/4.0)  
 💡 Passionate about building secure, scalable systems and solving real-world problems through software.
 
----
-
 ## 🚀 Technical Skills
 
 ### 💬 Languages  
-Java, JavaScript, Python, TypeScript, C++, C, HTML5, CSS3, Go
+### Java, JavaScript, Python, TypeScript, C++, C, HTML5, CSS3, Go
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -29,7 +26,7 @@ Java, JavaScript, Python, TypeScript, C++, C, HTML5, CSS3, Go
 ---
 
 ### 🧰 Frameworks & Tools  
-Spring Boot, React, Next.js, Docker, Node.js, OpenCV, Dlib, Cypress, MySQL, NoSQL
+### Spring Boot, React, Next.js, Docker, Node.js, OpenCV, Dlib, Cypress, MySQL, NoSQL
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
@@ -41,8 +38,8 @@ Spring Boot, React, Next.js, Docker, Node.js, OpenCV, Dlib, Cypress, MySQL, NoSQ
 
 ---
 
-### 🤖 Machine Learning Libraries  
-Keras, Matplotlib, NumPy, Pandas, Plotly, PyTorch, Scikit-learn, TensorFlow
+## 🤖 Machine Learning Libraries  
+###Keras, Matplotlib, NumPy, Pandas, Plotly, PyTorch, Scikit-learn, TensorFlow
 
 <p align="center">
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
@@ -57,8 +54,8 @@ Keras, Matplotlib, NumPy, Pandas, Plotly, PyTorch, Scikit-learn, TensorFlow
 
 ---
 
-### ☁️ DevOps & Cloud  
-AWS, OpenVPN, Nginx, REST APIs, Git, Jira
+## ☁️ DevOps & Cloud  
+###AWS, OpenVPN, Nginx, REST APIs, Git, Jira
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
