@@ -9,8 +9,6 @@
 💡 Passionate about building secure, scalable systems and solving real-world problems through software.
 
 ## 🚀 Technical Skills
-
-
 ## Languages:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
