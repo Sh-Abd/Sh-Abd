@@ -1,6 +1,6 @@
 # I'm Shadi Abd El Majid
 <p align="center">
-  <img src="header_.png" alt="Header Banner" />
+  <img src="https://your-host.com/path-to/header_.png" alt="Header Banner" />
 </p>
 
 🎓 Graduate Student @ San Jose State University | Master's in Software Engineering (GPA: 3.8/4.0)  
