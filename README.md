@@ -1,14 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
 # I'm Shadi Abd El Majid 
 ![header_](https://github.com/user-attachments/assets/0126ecd5-2006-47a6-a680-c76868f1085e)
 
@@ -45,8 +34,18 @@ Spring Boot, React, Next.js, Docker, Node.js, OpenCV, Dlib, Cypress, MySQL, NoSQ
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333835313146412e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/a9694cac-339a-4875-92e7-ad909a36694b)
 --
 
-## Machine learning 
+## Machine learning
 Keras, Matplotlib, NumPy, Pandas, Plotly, PyTorch, Scikit-learn, TensorFlow
+<p align="center">
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23F6F600.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+</p>
 --
 
 DevOps & Cloud: AWS, OpenVPN, Nginx, REST APIs, Git, Jira
@@ -58,7 +57,7 @@ DevOps & Cloud: AWS, OpenVPN, Nginx, REST APIs, Git, Jira
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
-  
+--
 
 📂 Projects:
   • 💻 **Fatigue Observant System** – Real-time drowsiness detection using deep learning (95% accuracy)
