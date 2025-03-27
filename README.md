@@ -1,11 +1,9 @@
 # I'm Shadi Abd El Majid 
 ![header_](https://github.com/user-attachments/assets/0126ecd5-2006-47a6-a680-c76868f1085e)
 
-
 🎓 Graduate Student @ San Jose State University | Master's in Software Engineering (GPA: 3.8/4.0)
 
 💡 Passionate about building secure, scalable systems and solving real-world problems through software.
---
 
 ## Technical Skills:
 
