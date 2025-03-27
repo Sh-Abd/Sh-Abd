@@ -1,7 +1,10 @@
 # I'm Shadi Abd El Majid
+
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-link.png" alt="Header Image" />
+  <img src="https://i.imgur.com/LX8Yw6y.png" alt="Tech Header Banner" />
 </p>
+
 
 🎓 Graduate Student @ San Jose State University | Master's in Software Engineering (GPA: 3.8/4.0)  
 💡 Passionate about building secure, scalable systems and solving real-world problems through software.
