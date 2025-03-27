@@ -1,3 +1,7 @@
+
+![header_](https://github.com/user-attachments/assets/0126ecd5-2006-47a6-a680-c76868f1085e)
+
+
 I am currently pursuing a Masters degree in Software Engineering. My passion for coding extends beyond academics—I often find myself immersed in projects, honing my skills in Java, Python, Dart, HMIL, and CSS during my leisure hours. These languages not only enable me to create innovative programs but also empower me to tackle intricate math and physics challenges.
 
 Juggling a full-time weekend job alongside occasional weekday commitments, I am dedicated to financially supporting my education. However, this hasn't deterred me from pursuing my interests. During my free time, I channel my enthusiasm into various activities such as working on my car, enhancing my coding prowess, and assembling computers.
