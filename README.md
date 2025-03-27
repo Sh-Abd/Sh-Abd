@@ -62,7 +62,7 @@
 
 
 
-## 🛠️ Projects
+## 🛠️ Nogithub Projects 
 - 💻 **Fatigue Observant System** – Real-time drowsiness detection using deep learning (95% accuracy)  
 - ⚙️ **Enterprise API Platform** – Deployed Spring Boot backend with OpenVPN & NGINX on AWS  
 - 🏥 **SQL-Docker Hospital App** – Designed relational DB & optimized patient appointment system  
@@ -71,7 +71,11 @@
 ---
 
 ## 🛡️ Experience
-- **SLAC National Accelerator Lab** – Cybersecurity monitoring, threat detection, and system forensics  
+- **SLAC National Accelerator Lab** – Cybersecurity monitoring, threat detection, and system forensics
+<p align="center">
+  <img src="https://i.imgur.com/8Ln9Ywk.png" alt="Logo" width="300"/>
+</p>
+
 - **Elements Medical Technology** – Protocol testing across WiFi/LTE/Bluetooth; Python-based automation  
 
 ---
