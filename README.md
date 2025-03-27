@@ -73,8 +73,9 @@
 ## 🛡️ Experience
 - **SLAC National Accelerator Lab** – Cybersecurity monitoring, threat detection, and system forensics
 <p align="center">
-  <img src="https://home.slac.stanford.edu/sites/default/files/slac_logo_white.png" alt="SLAC Logo" width="200"/>
+  <img src="https://home.slac.stanford.edu/themes/custom/slac/logo.svg" alt="SLAC Stanford Logo" width="200"/>
 </p>
+
 - **Elements Medical Technology** – Protocol testing across WiFi/LTE/Bluetooth; Python-based automation  
 
 ---
